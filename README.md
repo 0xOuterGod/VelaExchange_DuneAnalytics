@@ -5,6 +5,8 @@ It allows users to mint `VLP` by using:
 - `USDC` or `GHO` on Arbitrum;
 - `USDbC` on Base.
 
+[Link to dashboard](https://dune.com/outergod/vela-exchange-vlp)
+
 ![Screenshot (381)](https://github.com/user-attachments/assets/0e290772-795a-4b62-aff1-4d2db2b03dbe)
 ---
 The dashboard shows historical trends of some useful parameters for those who want to provide liquidity on perpDEX such as:
